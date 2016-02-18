@@ -1,4 +1,4 @@
-## Vecotr
+## Vector
 An exercise for c++: Template Vector<br>
 c++练习：模板练习 vector
 
